@@ -1,0 +1,24 @@
+{
+  "name": "exofrontend3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesplacide/ProjetFrontendMentor3YP.git"
+  },
+  "author": "Yves Placide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvesplacide/ProjetFrontendMentor3YP/issues"
+  },
+  "homepage": "https://github.com/yvesplacide/ProjetFrontendMentor3YP#readme",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.6"
+  }
+}
